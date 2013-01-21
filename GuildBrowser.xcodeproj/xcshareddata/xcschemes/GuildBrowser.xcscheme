@@ -29,12 +29,22 @@
       buildConfiguration = "Debug">
       <Testables>
          <TestableReference
-            skipped = "NO">
+            skipped = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB9FDC5B15E9872E00B3713E"
                BuildableName = "GuildBrowserTests.octest"
                BlueprintName = "GuildBrowserTests"
+               ReferencedContainer = "container:GuildBrowser.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "3D228DE716A9937000A77CBC"
+               BuildableName = "GuildBrowserLogicTest.octest"
+               BlueprintName = "GuildBrowserLogicTest"
                ReferencedContainer = "container:GuildBrowser.xcodeproj">
             </BuildableReference>
          </TestableReference>
