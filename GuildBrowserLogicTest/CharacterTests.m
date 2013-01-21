@@ -45,7 +45,7 @@
     STAssertNotNil(testGuy2, @"Could not create character from nil data");
 }
 
--(void)testCreateCharacterFromDetailJsonProps
+/*-(void)testCreateCharacterFromDetailJsonProps
 {
     NSLog(@"Thumbnail: %@", _testGuy.thumbnail);
     STAssertEqualObjects(_testGuy.thumbnail, @"borean-tundra/171/40508075-avatar.jpg", @"thumbnail url is wrong");
@@ -84,5 +84,5 @@
     STAssertEqualObjects(_testGuy.trinketItem1.name,@"Rosary of Light", @"neck name is wrong");
     STAssertEqualObjects(_testGuy.trinketItem2.name,@"Bone-Link Fetish", @"neck name is wrong");
     STAssertEqualObjects(_testGuy.rangedItem.name,@"Ironfeather Longbow", @"neck name is wrong");
-}
+}*/
 @end
