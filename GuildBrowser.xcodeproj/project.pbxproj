@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D1ED14C16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 3D1ED14B16AEFB3700F97959 /* GuildBrowser.mobileprovision */; };
+		3D1ED14D16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 3D1ED14B16AEFB3700F97959 /* GuildBrowser.mobileprovision */; };
+		3D1ED14E16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */ = {isa = PBXBuildFile; fileRef = 3D1ED14B16AEFB3700F97959 /* GuildBrowser.mobileprovision */; };
 		3D228DE916A9937000A77CBC /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC5D15E9872E00B3713E /* SenTestingKit.framework */; };
 		3D228DEA16A9937000A77CBC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC3F15E9872D00B3713E /* UIKit.framework */; };
 		3D228DEB16A9937000A77CBC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CB9FDC4115E9872D00B3713E /* Foundation.framework */; };
@@ -94,6 +97,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D1ED14B16AEFB3700F97959 /* GuildBrowser.mobileprovision */ = {isa = PBXFileReference; lastKnownFileType = file; path = GuildBrowser.mobileprovision; sourceTree = "<group>"; };
 		3D228DE816A9937000A77CBC /* GuildBrowserLogicTest.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuildBrowserLogicTest.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D228DEE16A9937000A77CBC /* GuildBrowserLogicTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GuildBrowserLogicTest-Info.plist"; sourceTree = "<group>"; };
 		3D228DF016A9937000A77CBC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -254,6 +258,7 @@
 		CB9FDC3015E9872D00B3713E = {
 			isa = PBXGroup;
 			children = (
+				3D1ED14B16AEFB3700F97959 /* GuildBrowser.mobileprovision */,
 				3D228E0B16A9A8C300A77CBC /* testdata */,
 				CB9FDCEC15E9B31400B3713E /* images */,
 				CB9FDCC115E9A8DA00B3713E /* AFNetworking */,
@@ -530,6 +535,7 @@
 				3D228DF116A9937000A77CBC /* InfoPlist.strings in Resources */,
 				3D228E0F16A9A8C300A77CBC /* character.json in Resources */,
 				3D228E1116A9A8C300A77CBC /* guild.json in Resources */,
+				3D1ED14E16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -561,6 +567,7 @@
 				CB9FDD1515E9B31400B3713E /* toolbar@2x.png in Resources */,
 				3D228E0E16A9A8C300A77CBC /* character.json in Resources */,
 				3D228E1016A9A8C300A77CBC /* guild.json in Resources */,
+				3D1ED14C16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -569,6 +576,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB9FDC6815E9872E00B3713E /* InfoPlist.strings in Resources */,
+				3D1ED14D16AEFB3700F97959 /* GuildBrowser.mobileprovision in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
